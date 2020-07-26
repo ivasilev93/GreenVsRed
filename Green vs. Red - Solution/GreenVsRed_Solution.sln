@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Green vs. Red - Solution", "Green vs. Red - Solution\Green vs. Red - Solution.csproj", "{2C13BE8E-3857-4BAD-A325-59A3FF0E5851}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C13BE8E-3857-4BAD-A325-59A3FF0E5851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C13BE8E-3857-4BAD-A325-59A3FF0E5851}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C13BE8E-3857-4BAD-A325-59A3FF0E5851}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C13BE8E-3857-4BAD-A325-59A3FF0E5851}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A7F9304-9FB6-4D39-8E3D-277783E81C3C}
+	EndGlobalSection
+EndGlobal

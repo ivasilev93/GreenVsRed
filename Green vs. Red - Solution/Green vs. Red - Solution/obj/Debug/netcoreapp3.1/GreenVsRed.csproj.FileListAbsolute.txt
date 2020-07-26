@@ -1,0 +1,13 @@
+D:\My Programs\Common projects\Green vs. Red - Solution\Green vs. Red - Solution\bin\Debug\netcoreapp3.1\GreenVsRed.exe
+D:\My Programs\Common projects\Green vs. Red - Solution\Green vs. Red - Solution\bin\Debug\netcoreapp3.1\GreenVsRed.deps.json
+D:\My Programs\Common projects\Green vs. Red - Solution\Green vs. Red - Solution\bin\Debug\netcoreapp3.1\GreenVsRed.runtimeconfig.json
+D:\My Programs\Common projects\Green vs. Red - Solution\Green vs. Red - Solution\bin\Debug\netcoreapp3.1\GreenVsRed.runtimeconfig.dev.json
+D:\My Programs\Common projects\Green vs. Red - Solution\Green vs. Red - Solution\bin\Debug\netcoreapp3.1\GreenVsRed.dll
+D:\My Programs\Common projects\Green vs. Red - Solution\Green vs. Red - Solution\bin\Debug\netcoreapp3.1\GreenVsRed.pdb
+D:\My Programs\Common projects\Green vs. Red - Solution\Green vs. Red - Solution\obj\Debug\netcoreapp3.1\GreenVsRed.AssemblyInfoInputs.cache
+D:\My Programs\Common projects\Green vs. Red - Solution\Green vs. Red - Solution\obj\Debug\netcoreapp3.1\GreenVsRed.AssemblyInfo.cs
+D:\My Programs\Common projects\Green vs. Red - Solution\Green vs. Red - Solution\obj\Debug\netcoreapp3.1\GreenVsRed.csproj.CoreCompileInputs.cache
+D:\My Programs\Common projects\Green vs. Red - Solution\Green vs. Red - Solution\obj\Debug\netcoreapp3.1\GreenVsRed.dll
+D:\My Programs\Common projects\Green vs. Red - Solution\Green vs. Red - Solution\obj\Debug\netcoreapp3.1\GreenVsRed.pdb
+D:\My Programs\Common projects\Green vs. Red - Solution\Green vs. Red - Solution\obj\Debug\netcoreapp3.1\GreenVsRed.genruntimeconfig.cache
+D:\My Programs\Common projects\Green vs. Red - Solution\Green vs. Red - Solution\obj\Debug\netcoreapp3.1\GreenVsRed.csprojAssemblyReference.cache
